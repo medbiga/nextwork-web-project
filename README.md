@@ -54,7 +54,7 @@ To get this project up and running on your local machine, follow these steps:
 
 ## Contact
 If you have any questions or comments about the NextWork Web Project, please contact:
-Mohamed Abbad - 2012mohamed.abbad@gmail.com (mailto:2012mohamed.abbad@gmail.com)
+Mohamed Abbad - [email] (mailto:2012mohamed.abbad@gmail.com)
 
 [linkedin] https://www.linkedin.com/in/mohamed-abbad/
 
