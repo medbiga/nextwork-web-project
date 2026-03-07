@@ -23,5 +23,6 @@ artifacts:
     - target/artifact-project.war
     - appspec.yml
     - scripts/**/*
+  base-directory: 'target'
   discard-paths: no
 
