@@ -20,9 +20,8 @@ phases:
       - mvn package -s settings.xml
 artifacts:
   files:
-    - target/artifact-project.war
+    - target/*.war
     - appspec.yml
     - scripts/**/*
-  base-directory: 'target'
-  discard-paths: yes
+  discard-paths: no
 
